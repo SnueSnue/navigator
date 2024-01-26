@@ -7,7 +7,7 @@ their names are not very intuitive.
 
 I've deployed them by adding the following to the bottom of my zshrc :))
 
-alias sdu='source /path/to/navigator.sh /path/to/overview'
+alias aliasname='source /path/to/navigator.sh /path/to/overview'
 
 where overview is the file with the overview over your folder.
 navigator.sh expects the overview to be in the same folder, as the folders it is describing.
