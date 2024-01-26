@@ -2,7 +2,7 @@
 
 // This project is still under construction
 
-Hello, I use these programs two navigate my school folders, since
+Hello, I use these two programs to navigate my school folders, since
 their names are not very intuitive.
 
 I've deployed them by adding the following to the bottom of my zshrc :))
