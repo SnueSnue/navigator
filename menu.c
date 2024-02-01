@@ -87,7 +87,7 @@ int get_current_item(Menu *menu, char *output_string) {
         i = i + 1;
     }
 
-    while (menu->lines[i] != ':') {
+    while (menu->lines[i] != ':' && menu->lines[i] != '\n') {
         output_string[current_index] = menu->lines[i];
         current_index = current_index + 1;
         i = i + 1;
